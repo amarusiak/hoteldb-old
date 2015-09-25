@@ -1,0 +1,8 @@
+D:\Work_2015-05-17\WCF\2015-08-16\Hotel\Client\Hotel.DesktopUI\Hotel.DesktopUI\bin\Debug\Hotel.DesktopUI.exe.config
+D:\Work_2015-05-17\WCF\2015-08-16\Hotel\Client\Hotel.DesktopUI\Hotel.DesktopUI\obj\Debug\Hotel.DesktopUI.Form1.resources
+D:\Work_2015-05-17\WCF\2015-08-16\Hotel\Client\Hotel.DesktopUI\Hotel.DesktopUI\obj\Debug\Hotel.DesktopUI.Properties.Resources.resources
+D:\Work_2015-05-17\WCF\2015-08-16\Hotel\Client\Hotel.DesktopUI\Hotel.DesktopUI\obj\Debug\Hotel.DesktopUI.csproj.GenerateResource.Cache
+D:\Work_2015-05-17\WCF\2015-08-16\Hotel\Client\Hotel.DesktopUI\Hotel.DesktopUI\bin\Debug\Hotel.DesktopUI.exe
+D:\Work_2015-05-17\WCF\2015-08-16\Hotel\Client\Hotel.DesktopUI\Hotel.DesktopUI\bin\Debug\Hotel.DesktopUI.pdb
+D:\Work_2015-05-17\WCF\2015-08-16\Hotel\Client\Hotel.DesktopUI\Hotel.DesktopUI\obj\Debug\Hotel.DesktopUI.exe
+D:\Work_2015-05-17\WCF\2015-08-16\Hotel\Client\Hotel.DesktopUI\Hotel.DesktopUI\obj\Debug\Hotel.DesktopUI.pdb
